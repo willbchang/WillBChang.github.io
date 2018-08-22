@@ -1,4 +1,4 @@
-# [will-b-chang.github.io](https://will-b-chang.github.io)
+# [Will.B.Chang](https://will-b-chang.github.io/Will.B.Chang)
 
 ![motto](https://user-images.githubusercontent.com/14329786/44493435-874dd700-a69a-11e8-9a7c-66ba3693071d.png)
 

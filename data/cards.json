@@ -1,0 +1,40 @@
+{
+  "model": {
+    "title": "Model",
+    "image": "images/Sora.png",
+    "imageAlt": "Big sister Aki is kissing Sora while he is cooking",
+    "personality": "Siscon",
+    "characters": ["Curious", "Gentle", "Sensitive"],
+    "name": "ID",
+    "natures": {
+      "Love": "Elder Sisters, Nature"
+    }
+  },
+
+  "view": {
+    "title": "View",
+    "image": "images/Beethoven.png",
+    "imageAlt": "30 years old Beethoven",
+    "personality": "Composer",
+    "characters": ["Innovative", "Persistent", "Resistant"],
+    "name": "Ego",
+    "natures": {
+      "Composition": "Cooking, Musicial Composition, Painting, Programming, Writing",
+      "Performance": "Baritone, Piano, Waltz",
+      "Protection": "Taekwondo"
+    }
+  },
+
+  "controller": {
+    "title": "Controller",
+    "image": "images/Hannibal.png",
+    "imageAlt": "Hannibal Lecter(Anthony Hopskin presented)",
+    "personality": "Analyzer",
+    "characters": ["Concise", "Insightful", "Thoughtful"],
+    "name": "Super Ego",
+    "natures": {
+      "Control": "Deductive Reasoning, Psychoanalysis",
+      "Languages": "Chinese, English, German, Japanese"
+    }
+  }
+}

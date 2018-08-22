@@ -1,0 +1,22 @@
+body {
+  font-family: 'Times';
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  background-image: url("https://raw.githubusercontent.com/WillBeethoven/willbeethoven.github.io/master/images/Batman.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: black;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-attachment: scroll;
+  }
+}
+
+.logo {
+  width: 40px;
+}

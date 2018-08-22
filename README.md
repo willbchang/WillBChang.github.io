@@ -14,6 +14,5 @@
 ## 其他
 
 - 此项目受 [linesh-simplicity.github.io](https://github.com/linesh-simplicity/linesh-simplicity.github.io) 启发。
-
 - 若有兴趣聊聊：[will.b.chang@gmail.com](mailto:will.b.chang@gmail.com)
 - 寻找有意建立亲密关系的大姐姐，我只对自己有要求，为达最低标准现在还在闭关修炼，还请耐心等待至 `2020/4/22`。

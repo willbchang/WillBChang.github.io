@@ -19,7 +19,7 @@
     "characters": ["Innovative", "Persistent", "Resistant"],
     "name": "Ego",
     "natures": {
-      "Composition": "Cooking, Musicial Composition, Painting, Programming, Writing",
+      "Composition": "Cooking, Musical Composition, Painting, Programming, Writing",
       "Performance": "Baritone, Piano, Waltz",
       "Protection": "Taekwondo"
     }
@@ -29,11 +29,11 @@
     "title": "Controller",
     "image": "images/Hannibal.png",
     "imageAlt": "Hannibal Lecter(Anthony Hopskin presented)",
-    "personality": "Analyzer",
+    "personality": "Psychoanalyst",
     "characters": ["Concise", "Insightful", "Thoughtful"],
     "name": "Super Ego",
     "natures": {
-      "Control": "Deductive Reasoning, Psychoanalysis",
+      "Control": "Deductive, Reasoning, Psychoanalysis",
       "Languages": "Chinese, English, German, Japanese"
     }
   }

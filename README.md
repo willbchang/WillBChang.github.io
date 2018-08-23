@@ -4,7 +4,7 @@
 
 ## 简介
 
-**这是一个对自我认知管理的项目，意于成为更好的自己。**
+**这是一个对自我认知管理的项目，旨在成为更好的自己。**
 
 - [**Code**](https://github.com/will-b-chang/will-b-chang.github.io/find/master): 代码展示了自我人格的原型。
 - [**Issues**](https://github.com/will-b-chang/will-b-chang.github.io/issues): 罗列出生活学习上所遇到的问题，以及解决方案(如果有的话)。
@@ -15,4 +15,4 @@
 
 - 此项目受 [linesh-simplicity.github.io](https://github.com/linesh-simplicity/linesh-simplicity.github.io) 启发。
 - 若有兴趣聊聊：[will.b.chang@gmail.com](mailto:will.b.chang@gmail.com)
-- 寻找有意建立亲密关系的大姐姐，我只对自己有要求，为达最低标准现在还在闭关修炼，还请耐心等待至 `2020/4/22`。
+- 寻找有意建立亲密关系的大姐姐，我只对自己有要求，为达最低标准现在还在闭关修炼，还请耐心等待至 [2020/4/22](https://calendar.google.com/calendar/r/eventedit?text=Will+is+back&dates=20170601T010000Z/20200601T020000Z&details=We+will+have+a+wonderful+time.&location=Shanghai,+China&pli=1&sf=true)。

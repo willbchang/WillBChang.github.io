@@ -1,6 +1,6 @@
 # [Will.B.Chang](https://will-b-chang.github.io/Will.B.Chang)
 
-![motto](https://user-images.githubusercontent.com/14329786/44493435-874dd700-a69a-11e8-9a7c-66ba3693071d.png)
+![motto](images/JieZiShu.png)
 
 ## 简介
 
@@ -15,4 +15,3 @@
 
 - 此项目受 [linesh-simplicity.github.io](https://github.com/linesh-simplicity/linesh-simplicity.github.io) 启发。
 - 若有兴趣聊聊：[will.b.chang@gmail.com](mailto:will.b.chang@gmail.com)
-- 寻找有意建立亲密关系的大姐姐，我只对自己有要求，为达最低标准现在还在闭关修炼，还请耐心等待至 [2020/4/22](https://calendar.google.com/calendar/r/eventedit?text=Will+is+back&dates=20170601T010000Z/20200601T020000Z&details=We+will+have+a+wonderful+time.&location=Shanghai,+China&pli=1&sf=true)。

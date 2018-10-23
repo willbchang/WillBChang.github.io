@@ -7,7 +7,8 @@
     "characters": ["Curious", "Gentle", "Sensitive"],
     "name": "ID",
     "natures": {
-      "Love": "Elder Sisters, Nature"
+      "Love": "Elder Sisters",
+      "Exploration": "Nature"
     }
   },
 
@@ -20,7 +21,6 @@
     "name": "Ego",
     "natures": {
       "Composition": "Musical Composition, Poetry, Programming",
-      "Performance": "Piano",
       "Protection": "Chinese boxing"
     }
   },
@@ -33,7 +33,7 @@
     "characters": ["Concise", "Insightful", "Thoughtful"],
     "name": "Super Ego",
     "natures": {
-      "Control": "Algorithm, Psychoanalysis",
+      "Analysis": "Algorithm, Psychoanalysis",
       "Languages": "Chinese, English"
     }
   }

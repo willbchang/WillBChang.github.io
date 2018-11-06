@@ -1,7 +1,7 @@
 {
   "model": {
     "title": "Model",
-    "image": "images/Sora.png",
+    "image": "src/images/Sora.png",
     "imageAlt": "The big sister Aki is kissing Sora while he is cooking",
     "personality": "Siscon",
     "characters": ["Curious", "Gentle", "Sensitive"],
@@ -14,7 +14,7 @@
 
   "view": {
     "title": "View",
-    "image": "images/Beethoven.png",
+    "image": "src/images/Beethoven.png",
     "imageAlt": "30 years old Beethoven",
     "personality": "Composer",
     "characters": ["Innovative", "Persistent", "Resistant"],
@@ -27,7 +27,7 @@
 
   "controller": {
     "title": "Controller",
-    "image": "images/Hannibal.png",
+    "image": "src/images/Hannibal.png",
     "imageAlt": "Hannibal Lecter(Anthony Hopskin presented)",
     "personality": "Analyser",
     "characters": ["Concise", "Insightful", "Thoughtful"],

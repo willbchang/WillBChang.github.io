@@ -1,5 +1,4 @@
 # Will.B.Chang
-![motto](images/JieZiShu.png)
 
 ## 简介
 **这是一个对自我认知管理的项目，旨在成为更好的自己。**

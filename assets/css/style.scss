@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn, .btn:hover {
+  display: inline-block;
+  color: #1e6bb8;
+  margin-bottom: 1rem;
+  border: #1e6bb8 solid 1px;
+  border-radius: 0.3rem;
+}

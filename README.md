@@ -3,11 +3,11 @@
 - **WaC**: Work as Contributor(merged my modifications to original work).
 - **WoF**: Work of Folks(an inheritance with modifications of existing work).
 
-| Opus  | Name                                    | Category         | Language   | Reviewer | Status |
-| ----- | --------------------------------------- | ---------------- | ---------- | -------- | ------ |
-| Op.1  | [ReadLater](https://git.io/fh7XE)       | Chrome Extension | JavaScript |          | v1.2.4 |
-| Op.2  | [SelectionJedi](https://git.io/fjY0L)   | Alfred Workflow  | Python     |          | v0.2.4 |
-| Op.3  | [Monokai-WillBC](https://git.io/fh7Xz)  | VSCode Theme     | JSON       |          | TODO   |
-| Op.4  | [vscode-lilypond](https://git.io/fjC8N) | VSCode Extension | TypeScript |          | TODO   |
-| WoF.1 | [Alfred Bitly](https://bit.ly/2WldwA5)  | Alfred Workflow  | Bash       |          | DONE   |
-| WoF.2 | [Alfred GitHub](https://git.io/fh7X0)   | Alfred Workflow  | PHP        |          | TODO   |
+| Opus  | Name                                      | Category         | Language   | Reviewer | Status                                  |
+| ----- | ----------------------------------------- | ---------------- | ---------- | -------- | --------------------------------------- |
+| Op.1  | [Read Later](https://git.io/fjCzZ)        | Chrome Extension | JavaScript |          | ![release](https://bit.ly/2Wy7wUQ)      |
+| Op.2  | [Selection Toolbox](https://git.io/fjCzE) | Alfred Workflow  | Python     |          | ![release](https://bit.ly/2WCZZEu)      |
+| Op.3  | [Onee Chan](https://git.io/fjCgF)         | VSCode Theme     | JSON       |          | ![pre-release](https://bit.ly/2E2k2Vp ) |
+| Op.4  | [LilyPond IDE](https://git.io/fjC8N)      | VSCode Extension | TypeScript |          | TODO                                    |
+| WoF.1 | [Bitly](https://bit.ly/2WldwA5)           | Alfred Workflow  | Bash       |          | ![release](https://bit.ly/2WCxh6q)      |
+| WoF.2 | [GitHub](https://git.io/fh7X0)            | Alfred Workflow  | PHP        |          | TODO                                    |

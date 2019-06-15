@@ -1,13 +1,18 @@
 # Code
-- **Opus/Op**: Work from scratch, could be inspired by others.
-- **WaC**: Work as Contributor(merged my modifications to original work).
-- **WoF**: Work of Folks(an inheritance with modifications of existing work).
+## Extension
+### Alfred
+[![willbchang/alfred-open-in-vscode - GitHub](https://gh-card.dev/repos/willbchang/alfred-open-in-vscode.svg)](https://github.com/willbchang/alfred-open-in-vscode)
+[![willbchang/alfred-search-selection - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-selection.svg)](https://github.com/willbchang/alfred-search-selection)
+[![willbchang/alfred-search-in-devdocs - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-in-devdocs.svg)](https://github.com/willbchang/alfred-search-in-devdocs)
+[![willbchang/alfred-url-shortener - GitHub](https://gh-card.dev/repos/willbchang/alfred-url-shortener.svg)](https://github.com/willbchang/alfred-url-shortener)
+- [ ] Enhanced Copy
+- [ ] Enhanced Dictionary
+- [ ] OCR Image
+- [ ] Run in Terminal
 
-| Opus  | Name                                      | Category         | Language   | Reviewer | Status                                  |
-| ----- | ----------------------------------------- | ---------------- | ---------- | -------- | --------------------------------------- |
-| Op.1  | [Read Later](https://git.io/fjCzZ)        | Chrome Extension | JavaScript |          | ![release](https://bit.ly/2Wy7wUQ)      |
-| Op.2  | [Selection Toolbox](https://git.io/fjCzE) | Alfred Workflow  | Python     |          | ![release](https://bit.ly/2WCZZEu)      |
-| Op.3  | [Onee Chan](https://git.io/fjCgF)         | VSCode Theme     | JSON       |          | ![pre-release](https://bit.ly/2E2k2Vp ) |
-| Op.4  | [LilyPond IDE](https://git.io/fjC8N)      | VSCode Extension | TypeScript |          | TODO                                    |
-| WoF.1 | [Bitly](https://bit.ly/2WldwA5)           | Alfred Workflow  | Bash       |          | ![release](https://bit.ly/2WCxh6q)      |
-| WoF.2 | [GitHub](https://git.io/fh7X0)            | Alfred Workflow  | PHP        |          | TODO                                    |
+### Chrome
+[![willbchang/chrome-read-later - GitHub](https://gh-card.dev/repos/willbchang/chrome-read-later.svg)](https://github.com/willbchang/chrome-read-later)
+
+### VSCode
+[![willbchang/vscode-monokai-onee-chan - GitHub](https://gh-card.dev/repos/willbchang/vscode-monokai-onee-chan.svg)](https://github.com/willbchang/vscode-monokai-onee-chan)
+- [ ] **LilyPond**<sup>WoF</sup>: LilyPond IDE for VSCode.

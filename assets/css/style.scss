@@ -3,13 +3,35 @@
 
 @import "{{ site.theme }}";
 
-.btn, .btn:hover {
+body {
+  margin: 0;
+}
+
+nav {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: orange !important;
+  background-image: url(https://willbc.cn/img/favicon-32x32.png);
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background-position: left 50%;
+  padding-left: 30px;
+}
+
+nav ul {
+  list-style-type: none;
   display: inline-block;
-  color: #1e6bb8;
-  margin-bottom: 1rem;
-  border: #1e6bb8 solid 1px;
-  border-radius: 0.3rem;
-  text-align: center;
+  padding-left: 0;
+}
+
+nav li {
+  font-size: 20px;
+  display: inline-block;
+  padding-left: 40px;
 }
 
 @media screen and (min-width: 64em) {

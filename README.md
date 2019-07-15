@@ -3,9 +3,11 @@
 [![willbchang/alfred-search-selection - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-selection.svg)](https://github.com/willbchang/alfred-search-selection)
 [![willbchang/alfred-search-in-devdocs - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-in-devdocs.svg)](https://github.com/willbchang/alfred-search-in-devdocs)
 [![willbchang/alfred-url-shortener - GitHub](https://gh-card.dev/repos/willbchang/alfred-url-shortener.svg)](https://github.com/willbchang/alfred-url-shortener)
+[![willbchang/alfred-url-shortener - GitHub](https://gh-card.dev/repos/willbchang/alfred-url-shortener.svg)](https://github.com/willbchang/alfred-url-shortener)
+[![willbchang/alfred-enhanced-dictionary - GitHub](https://gh-card.dev/repos/willbchang/alfred-enhanced-dictionary.svg)](https://github.com/willbchang/alfred-enhanced-dictionary)
+
 
 - Enhanced Copy
-- Enhanced Dictionary
 - OCR Image
 - Run in Terminal
 

@@ -8,3 +8,6 @@
 
 ## Chrome
 [![willbchang/chrome-read-later - GitHub](https://gh-card.dev/repos/willbchang/chrome-read-later.svg)](https://github.com/willbchang/chrome-read-later)
+
+## Jekyll
+[![willbchang/jekyll-theme-willbc - GitHub](https://gh-card.dev/repos/willbchang/jekyll-theme-willbc.svg)](https://github.com/willbchang/jekyll-theme-willbc)

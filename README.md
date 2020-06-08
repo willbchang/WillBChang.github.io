@@ -4,6 +4,7 @@
 [![willbchang/alfred-run-in-terminal - GitHub](https://gh-card.dev/repos/willbchang/alfred-run-in-terminal.svg)](https://github.com/willbchang/alfred-run-in-terminal)
 [![willbchang/alfred-enhanced-dictionary - GitHub](https://gh-card.dev/repos/willbchang/alfred-enhanced-dictionary.svg)](https://github.com/willbchang/alfred-enhanced-dictionary)
 [![willbchang/alfred-search-in-devdocs - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-in-devdocs.svg)](https://github.com/willbchang/alfred-search-in-devdocs)
+[![willbchang/alfred-shortcut-shift-space - GitHub](https://gh-card.dev/repos/willbchang/alfred-shortcut-shift-space.svg)](https://github.com/willbchang/alfred-shortcut-shift-space)
 
 ## Chrome
 [![willbchang/chrome-read-later - GitHub](https://gh-card.dev/repos/willbchang/chrome-read-later.svg)](https://github.com/willbchang/chrome-read-later)

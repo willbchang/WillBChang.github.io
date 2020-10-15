@@ -1,3 +1,6 @@
+## MacOS Configuration
+[![willbchang/macos-dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=macos-dotfiles)](https://github.com/willbchang/macos-dotfiles)
+
 ## Alfred Workflows
 [![willbchang/alfred-open-in-editor - GitHub](https://gh-card.dev/repos/willbchang/alfred-open-in-editor.svg)](https://github.com/willbchang/alfred-open-in-editor)
 [![willbchang/alfred-search-selection - GitHub](https://gh-card.dev/repos/willbchang/alfred-search-selection.svg)](https://github.com/willbchang/alfred-search-selection)

@@ -1,3 +1,5 @@
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=willbchang&show_icons=true&disable_animations=true&include_all_commits=true&hide_title=true)](https://github.com/willbchang)
+
 ## MacOS Configuration
 [![willbchang/macos-dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=macos-dotfiles)](https://github.com/willbchang/macos-dotfiles)
 

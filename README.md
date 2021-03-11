@@ -2,10 +2,10 @@
 [![Will's github stats](https://github-readme-stats.vercel.app/api?username=willbchang&show_icons=true&disable_animations=true&include_all_commits=true&hide_title=true)](https://github.com/willbchang)
 
 ## MacOS Configuration
-[![willbchang/macos-dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=macos-dotfiles)](https://github.com/willbchang/macos-dotfiles)
+[![willbchang/star-guardian-macos](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=star-guardian-macos)](https://github.com/willbchang/star-guardian-macos)
 
 ## Emacs Configuration
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=teem-emacs)](https://github.com/willbchang/teem-emacs)
+[![willbchang/ward-emacs](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=ward-emacs)](https://github.com/willbchang/ward-emacs)
 
 
 ## Chrome Extenions

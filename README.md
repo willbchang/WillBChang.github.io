@@ -21,3 +21,7 @@
 
 ## Jekyll Themes
 [![willbchang/jekyll-theme-willbc - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=jekyll-theme-willbc)](https://github.com/willbchang/jekyll-theme-willbc)
+
+## Tampermonkey Userscripts
+[![willbchang/shanbay-jk](https://gh-card.dev/repos/willbchang/shanbay-jk.svg)](https://github.com/willbchang/shanbay-jk)
+

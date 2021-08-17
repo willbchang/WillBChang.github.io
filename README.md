@@ -4,10 +4,6 @@
 ## MacOS Configuration
 [![willbchang/star-guardian-macos](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=star-guardian-macos)](https://github.com/willbchang/star-guardian-macos)
 
-## Emacs Configuration
-[![willbchang/ward-emacs](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=ward-emacs)](https://github.com/willbchang/ward-emacs)
-
-
 ## Chrome Extenions
 [![willbchang/chrome-read-later - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=willbchang&repo=chrome-read-later)](https://github.com/willbchang/chrome-read-later)
 
